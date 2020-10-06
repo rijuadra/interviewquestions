@@ -29,6 +29,7 @@ MPL Interview Questions
 2) How to make any microservice fault tolerance?
 3) How to create an alert if in case any node is down?
 4) How do you deploy your application?
+5) What's the benefit of using spring boot application?
 
 _______________________________________________________________________________________________________________________________
 
@@ -52,4 +53,17 @@ Previous Interview Questions
 16) SOLID principals
 17) What is sharding?
 18) Difference between @bean & @component
+19) How to return two variables?
+20) How to improve performance of any application?
+21) Difference between stored procedure and inline query? why stored procedure is faster?
+22) How to analyze memory leak?
+23) Did you see gc logs? in which format it's getting printed?
+24) Difference between Optional's of() and ofNullable()?
+25) Closure in lambda or what is effectively final?
+26) What is stream? Difference between sequencial stream and parallel stream?
+27) flatMap with example
+28) Difference between map() & flatMap() of stream
+29) Transaction propagation & isolation levels
+30) what is spring AOP?
+
 
