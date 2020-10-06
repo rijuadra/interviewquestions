@@ -51,5 +51,5 @@ Previous Interview Questions
 15) CAP Theorem
 16) SOLID principals
 17) What is sharding?
-18) Difference between @bean & @componenet
+18) Difference between @bean & @component
 
