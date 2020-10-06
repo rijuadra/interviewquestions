@@ -45,3 +45,11 @@ Previous Interview Questions
 9) Difference between volatile variables and atomic variables
 10) Types of thread pool in executor framework
 11) Types of garbage collectors and how to use them
+12) How to handle distributed transactions?
+13) What is distributed caching? Types of caching
+14) Difference between Nosql and sql database
+15) CAP Theorem
+16) SOLID principals
+17) What is sharding?
+18) Difference between @bean & @componenet
+
