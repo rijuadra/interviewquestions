@@ -21,6 +21,9 @@ Oracle interview questions
 16) Write a program to insert any element to a specific position on an array
 17) Different ways of iterating any HashMap
 18) wait() notify()
+19) Difference between ClassNotFoundException and ClassDeffNotFoundException
+20) A->B->C hierarchy of constructor calling if object of C has been created
+
 ________________________________________________________________________________________________________________________________
 
 MPL Interview Questions
@@ -65,5 +68,6 @@ Previous Interview Questions
 28) Difference between map() & flatMap() of stream
 29) Transaction propagation & isolation levels
 30) what is spring AOP?
+
 
 
