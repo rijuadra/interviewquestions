@@ -23,6 +23,9 @@ Oracle interview questions
 18) wait() notify()
 19) Difference between ClassNotFoundException and ClassDeffNotFoundException
 20) A->B->C hierarchy of constructor calling if object of C has been created
+21) Paranthesis validation
+22) Postfix evalution
+23) No of possible islands in a given 2d array
 
 ________________________________________________________________________________________________________________________________
 
@@ -35,6 +38,19 @@ MPL Interview Questions
 5) What's the benefit of using spring boot application?
 
 _______________________________________________________________________________________________________________________________
+
+Maersk Interview Question
+
+1) Circuit breaker & it's different implementation
+2) What extra configuration of circuit breaker would be required  in case of spring compare to spring boot?
+3) How to manage different property value for different env? 
+4) If spring profile feature is not there then how would you implement it?
+5) for multiple microservices suppose a perticular value has been changed, then how to reflect it to all microservices effectively?
+
+
+
+
+________________________________________________________________________________________________________________________________
 
 Previous Interview Questions
 
@@ -68,6 +84,8 @@ Previous Interview Questions
 28) Difference between map() & flatMap() of stream
 29) Transaction propagation & isolation levels
 30) what is spring AOP?
+
+
 
 
 
