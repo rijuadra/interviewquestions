@@ -30,12 +30,28 @@ Oracle interview questions
 ________________________________________________________________________________________________________________________________
 
 MPL Interview Questions
-
+Round1:
 1) Design consideration while developing a microservice
 2) How to make any microservice fault tolerance?
 3) How to create an alert if in case any node is down?
 4) How do you deploy your application?
 5) What's the benefit of using spring boot application?
+
+Round2:
+1) Difference between Rest & SOAP
+2) When to choose SOAP over REST
+3) Why REST web services are stateless?
+4) Limitation of HTTP
+5) what all communication protocol have you used?
+6) Is there any better alternative instead of http?
+7) wap to find all subset in an araay whose sum is 0
+8) How to handle transaction in camel routes?
+9) Design consideration while choosing camel as an integration framework
+10) what all integration pattern you have worked 
+11) how split pattern works with different threads
+12) what all functional design pattern you have worked?
+13) have you worked on observer design pattern?
+14) what all spring boot modules you have worked
 
 _______________________________________________________________________________________________________________________________
 
@@ -50,6 +66,14 @@ Maersk Interview Question
 
 
 
+________________________________________________________________________________________________________________________________
+Google Interview Questions
+
+1) write a program to increment a sequence of numbers
+1,2,3,4,9 --->+1----->1,2,3,5,0 
+use cases of number of sequence instead of integer or double
+
+2) design BigInteger's add method
 ________________________________________________________________________________________________________________________________
 
 Previous Interview Questions
@@ -84,6 +108,7 @@ Previous Interview Questions
 28) Difference between map() & flatMap() of stream
 29) Transaction propagation & isolation levels
 30) what is spring AOP?
+
 
 
 
